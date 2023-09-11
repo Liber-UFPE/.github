@@ -2,7 +2,7 @@
 
 ![Logo Laboratório Liber](http://www.liber.ufpe.br/nova/wp-content/uploads/2018/03/Liber-2@2x.png)
 
-O LIBER é um Laboratório multiusuário, ligado ao [DCI](https://www.ufpe.br/dci), da [UFPE](https://www.ufpe.br/) (Universidade Federal de Pernambuco), voltado para a utilização e análise de Tecnologias do conhecimento.
+O LIBER é um Laboratório multiusuário, ligado ao [Departamento de Ciência da Informação](https://www.ufpe.br/dci) (DCI), da [Universidade Federal de Pernambuco](https://www.ufpe.br/) (UFPE), voltado para a utilização e análise de Tecnologias do conhecimento.
 
 ## Links
 
