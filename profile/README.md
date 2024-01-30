@@ -8,3 +8,4 @@ O LIBER é um Laboratório multiusuário, ligado ao [Departamento de Ciência da
 
 - [Laboratório LIBER](http://www.liber.ufpe.br/)
 - [Contato](http://www.liber.ufpe.br/?page_id=123362)
+- [Projetos no SonarCloud](https://sonarcloud.io/organizations/liber-ufpe/projects)
